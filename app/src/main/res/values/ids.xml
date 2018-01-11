@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_order" type="id">Order</item>
+    <item name="action_status" type="id">Status</item>
+    <item name="action_favorites" type="id">Favorites</item>
+    <item name="action_contact" type="id">Contact</item>
+</resources>
